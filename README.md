@@ -2,6 +2,8 @@
 
 basic web crawler
 
+`npm install spidercheck`
+
 ## var spider = new SpiderCheck()
 
 ### Events
